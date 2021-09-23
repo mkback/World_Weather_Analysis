@@ -4,7 +4,7 @@ config.py
 #Add additional files to ignore 
 API_practice.ipynb
 random_numbers.ipynb
-
+google_nearby_search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
